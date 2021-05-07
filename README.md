@@ -8,4 +8,4 @@ Source of CMAP-LINCS GCTX file:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GSE92743 - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92743<br>
 <br>
 Date: 3/8/2018<br>
-Author: C.W.Weng(Jeff)<br>
+Author: C.W.Weng (Jeff)<br>
