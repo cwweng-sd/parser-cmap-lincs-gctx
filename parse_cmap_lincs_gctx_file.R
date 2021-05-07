@@ -6,7 +6,7 @@
 #'     GSE92743 - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92743
 #'     
 #' Date: 3/8/2018
-#' Author: Jeff Chia-Wei Weng
+#' Author: C.W.Weng (Jeff)
 
 # install the ggplot2 package
 install.packages("ggplot2")
